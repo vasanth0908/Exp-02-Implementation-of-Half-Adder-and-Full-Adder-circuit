@@ -83,3 +83,5 @@ RTL realization
 
 
 ### Result:
+The Implementation-of-Half-Adder-and-Full-Adder-circuit as excuted successfully
+
